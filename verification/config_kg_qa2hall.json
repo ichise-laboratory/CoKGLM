@@ -1,0 +1,44 @@
+{
+    "model_name_or_path": "facebook/bart-base",
+    "mode": "input",
+    "memory_bank_mode": "entity",
+    "max_memory_bank": 5,
+    "use_memory_bank": true,
+    "use_kg_embedding": true,
+    "entity_relation_embedding_path": "../kg/TransE_768_result/ent_rel_embeddings",
+
+    "train_file": "../QA2HALL/retrieved_data/extract5_per_entity.csv",
+    "text_column": "history_response",
+    "summary_column": "hallucination_tags",
+    "pad_to_max_length": true,
+    "max_source_length": 800,
+    "overwrite_cache": true,
+    "overwrite_output_dir": true,
+
+    "output_dir": "input_entity_memory_nestcrosval_extract_5_per_entity",
+    "learning_rate": 3.5e-5,
+    "warmup_ratio": 0.3,
+    "do_train": true,
+    "evaluation_strategy": "steps",
+    "eval_steps": 20,
+    "logging_strategy": "steps",
+    "logging_steps": 20,
+    "logging_first_step": true,
+    "logging_dir": "input_entity_memory_nestcrosval_extract_5_per_entity",
+
+    "per_device_train_batch_size": 4,
+    "per_device_eval_batch_size": 4,
+    "gradient_accumulation_steps": 4,
+    "eval_accumulation_steps": 4,
+    
+    "early_stop": true,
+    "early_stopping_patience": 10,
+    "save_total_limit": 1,
+    "load_best_model_at_end": true,
+    "num_train_epochs": 5,
+    "save_strategy": "no",
+    
+    "tokenizer_name": "facebook/bart-base",
+    "report_to_wandb": "wandb"
+}
+
