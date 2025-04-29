@@ -1,0 +1,363 @@
+academic degree
+affiliation
+afflicts
+after a work by
+airline alliance
+airline hub
+allegiance
+ancestral home
+appears in the form of
+applies to jurisdiction
+appointed by
+approved by
+architect
+architectural style
+archives at
+art director
+author
+award disciplines or subjects
+award received
+based on
+basic form of government
+basin country
+board member
+broadcast by
+business division
+candidacy in election
+candidate
+capital
+capital of
+captain
+cast member
+cause of death
+chairperson
+characters
+chief executive officer
+child
+child astronomical body
+cites
+coextensive with
+collection
+color
+commander of
+commissioned by
+composer
+conferred by
+conflict
+connects with
+contains administrative territorial entity
+contains settlement
+continent
+contributing factor of
+contributor(s) to the creative work
+convicted of
+copyright holder
+copyright representative
+costume designer
+country
+country for sport
+country of citizenship
+country of origin
+creator
+culture
+currency
+dedicated to
+depicted by
+depicts
+derivative work
+designated as terrorist by
+designed by
+designed to carry
+destination point
+developer
+dialect of
+diaspora
+different from
+diplomatic relation
+director
+director of photography
+director/manager
+discoverer or inventor
+dissertation submitted to
+distribution
+distributor
+doctoral advisor
+doctoral student
+does not have part
+domain of saint or deity
+donated by
+draft pick from school
+drafted by
+drug used for treatment
+edition or translation of
+editor
+educated at
+employer
+enclave within
+ethnic group
+exclave of
+executive producer
+exported to
+eye color
+fabrication method
+facet of
+family
+family name
+famous people
+father
+feast day
+fictional universe described in
+field of this occupation
+field of work
+film crew member
+film distribute region
+film editor
+film regional debut venue
+film release region
+filming location
+filmography
+followed by
+follows
+found
+foundational text
+founded by
+from fictional universe
+game mode
+general manager
+genre
+geographic distribution
+geography of topic
+given name
+godparent
+grants
+had as last meal
+hair color
+has cause
+has contributing factor
+has dialect (deprecated)
+has edition
+has effect
+has immediate cause
+has part
+has parts of the class
+has quality
+head coach
+head of government
+head of state
+headquarters location
+health specialty
+heritage designation
+highest judicial authority
+history of topic
+home port
+home venue
+home world
+honorific prefix
+honorific suffix
+illustrator
+indigenous to
+industry
+influenced by
+inspired by
+instrument
+instrumentation
+interested in
+interests
+is a list of
+item operated
+killed by
+kit supplier
+language of work or name
+language used
+languages spoken, written or signed
+league
+legal form
+legislative body
+librettist
+license
+licensed to broadcast to
+lifestyle
+located in or next to body of water
+located in the administrative territorial entity
+located in time zone
+located on astronomical location
+located on terrain feature
+location
+location of discovery
+location of final assembly
+location of formation
+lowest point
+lyrics by
+main food source
+main subject
+maintained by
+make-up artist
+manner of death
+manufacturer
+mascot
+material used
+medical condition
+medical treatment
+member of
+member of political party
+member of sports team
+military branch
+military casualty classification
+military conflicts
+military rank
+model item
+month of the year
+mother
+mountain range
+mouth of the watercourse
+movement
+musical conductor
+named after
+narrative location
+narrative role
+narrator
+native language
+natural product of taxon
+newspaper format
+next higher rank
+next lower rank
+noble title
+nominated for
+notable people with this condition
+notable work
+nutrient
+occupant
+occupation
+office contested
+office held by head of government
+office held by head of state
+office held by head of the organisation
+officeholder
+official color
+official language
+official religion
+official residence
+official symbol
+officially opened by
+operating area
+operating system
+operator
+opposite of
+organisation directed from the office or person
+organizer
+original film format
+original language of film or tv show
+original network
+owned by
+owner of
+parent astronomical body
+parent club
+parent organization
+part of
+part of the series
+partially contains
+participant
+participant of
+partner
+patron saint
+penalty
+performer
+permanent resident of
+place of birth
+place of burial
+place of death
+place of origin (switzerland)
+place of publication
+place served by transport hub
+platform
+political alignment
+political ideology
+position held
+position played on team / speciality
+practiced by
+present in work
+presenter
+producer
+product or material produced
+production company
+production designer
+professional or sports partner
+professorship
+programming language
+programming paradigm
+properties for this type
+public holiday
+published in
+publisher
+quotes work
+record label
+rector
+registered with
+relative
+religion
+religious order
+replaced by
+replaces
+residence
+risk factor
+said to be the same as
+screenwriter
+season starts
+seed team
+separated from
+series spin-off
+set in period
+sex or gender
+sexual orientation
+shares border with
+sibling
+sidekick of
+signatory
+significant event
+significant person
+software engine
+soundtrack album
+source of income
+source of material
+sponsor
+sport
+sports season of league or competition
+spouse
+start point
+stated in
+statistical leader
+student
+student of
+studied by
+studies
+subject has role
+subsidiary
+substitute/deputy/replacement of office/officeholder
+successful candidate
+superhuman feature or ability
+symptom of
+symptoms
+takes place in fictional universe
+talk show guest
+taxon rank
+terminus
+territory claimed by
+territory overlaps
+theme music
+this taxon is source of
+time period
+tributary
+twinned administrative body
+update method
+use
+used by
+uses
+vehicle normally used
+voice actor
+voice type
+wikidata property
+winner
+work location
+works in collection
+worshipped by
+writing system

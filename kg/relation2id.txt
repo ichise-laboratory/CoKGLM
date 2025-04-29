@@ -1,0 +1,364 @@
+363
+academic degree	0
+affiliation	1
+afflicts	2
+after a work by	3
+airline alliance	4
+airline hub	5
+allegiance	6
+ancestral home	7
+appears in the form of	8
+applies to jurisdiction	9
+appointed by	10
+approved by	11
+architect	12
+architectural style	13
+archives at	14
+art director	15
+author	16
+award disciplines or subjects	17
+award received	18
+based on	19
+basic form of government	20
+basin country	21
+board member	22
+broadcast by	23
+business division	24
+candidacy in election	25
+candidate	26
+capital	27
+capital of	28
+captain	29
+cast member	30
+cause of death	31
+chairperson	32
+characters	33
+chief executive officer	34
+child	35
+child astronomical body	36
+cites	37
+coextensive with	38
+collection	39
+color	40
+commander of	41
+commissioned by	42
+composer	43
+conferred by	44
+conflict	45
+connects with	46
+contains administrative territorial entity	47
+contains settlement	48
+continent	49
+contributing factor of	50
+contributor(s) to the creative work	51
+convicted of	52
+copyright holder	53
+copyright representative	54
+costume designer	55
+country	56
+country for sport	57
+country of citizenship	58
+country of origin	59
+creator	60
+culture	61
+currency	62
+dedicated to	63
+depicted by	64
+depicts	65
+derivative work	66
+designated as terrorist by	67
+designed by	68
+designed to carry	69
+destination point	70
+developer	71
+dialect of	72
+diaspora	73
+different from	74
+diplomatic relation	75
+director	76
+director of photography	77
+director/manager	78
+discoverer or inventor	79
+dissertation submitted to	80
+distribution	81
+distributor	82
+doctoral advisor	83
+doctoral student	84
+does not have part	85
+domain of saint or deity	86
+donated by	87
+draft pick from school	88
+drafted by	89
+drug used for treatment	90
+edition or translation of	91
+editor	92
+educated at	93
+employer	94
+enclave within	95
+ethnic group	96
+exclave of	97
+executive producer	98
+exported to	99
+eye color	100
+fabrication method	101
+facet of	102
+family	103
+family name	104
+famous people	105
+father	106
+feast day	107
+fictional universe described in	108
+field of this occupation	109
+field of work	110
+film crew member	111
+film distribute region	112
+film editor	113
+film regional debut venue	114
+film release region	115
+filming location	116
+filmography	117
+followed by	118
+follows	119
+found	120
+foundational text	121
+founded by	122
+from fictional universe	123
+game mode	124
+general manager	125
+genre	126
+geographic distribution	127
+geography of topic	128
+given name	129
+godparent	130
+grants	131
+had as last meal	132
+hair color	133
+has cause	134
+has contributing factor	135
+has dialect (deprecated)	136
+has edition	137
+has effect	138
+has immediate cause	139
+has part	140
+has parts of the class	141
+has quality	142
+head coach	143
+head of government	144
+head of state	145
+headquarters location	146
+health specialty	147
+heritage designation	148
+highest judicial authority	149
+history of topic	150
+home port	151
+home venue	152
+home world	153
+honorific prefix	154
+honorific suffix	155
+illustrator	156
+indigenous to	157
+industry	158
+influenced by	159
+inspired by	160
+instrument	161
+instrumentation	162
+interested in	163
+interests	164
+is a list of	165
+item operated	166
+killed by	167
+kit supplier	168
+language of work or name	169
+language used	170
+languages spoken, written or signed	171
+league	172
+legal form	173
+legislative body	174
+librettist	175
+license	176
+licensed to broadcast to	177
+lifestyle	178
+located in or next to body of water	179
+located in the administrative territorial entity	180
+located in time zone	181
+located on astronomical location	182
+located on terrain feature	183
+location	184
+location of discovery	185
+location of final assembly	186
+location of formation	187
+lowest point	188
+lyrics by	189
+main food source	190
+main subject	191
+maintained by	192
+make-up artist	193
+manner of death	194
+manufacturer	195
+mascot	196
+material used	197
+medical condition	198
+medical treatment	199
+member of	200
+member of political party	201
+member of sports team	202
+military branch	203
+military casualty classification	204
+military conflicts	205
+military rank	206
+model item	207
+month of the year	208
+mother	209
+mountain range	210
+mouth of the watercourse	211
+movement	212
+musical conductor	213
+named after	214
+narrative location	215
+narrative role	216
+narrator	217
+native language	218
+natural product of taxon	219
+newspaper format	220
+next higher rank	221
+next lower rank	222
+noble title	223
+nominated for	224
+notable people with this condition	225
+notable work	226
+nutrient	227
+occupant	228
+occupation	229
+office contested	230
+office held by head of government	231
+office held by head of state	232
+office held by head of the organisation	233
+officeholder	234
+official color	235
+official language	236
+official religion	237
+official residence	238
+official symbol	239
+officially opened by	240
+operating area	241
+operating system	242
+operator	243
+opposite of	244
+organisation directed from the office or person	245
+organizer	246
+original film format	247
+original language of film or tv show	248
+original network	249
+owned by	250
+owner of	251
+parent astronomical body	252
+parent club	253
+parent organization	254
+part of	255
+part of the series	256
+partially contains	257
+participant	258
+participant of	259
+partner	260
+patron saint	261
+penalty	262
+performer	263
+permanent resident of	264
+place of birth	265
+place of burial	266
+place of death	267
+place of origin (switzerland)	268
+place of publication	269
+place served by transport hub	270
+platform	271
+political alignment	272
+political ideology	273
+position held	274
+position played on team / speciality	275
+practiced by	276
+present in work	277
+presenter	278
+producer	279
+product or material produced	280
+production company	281
+production designer	282
+professional or sports partner	283
+professorship	284
+programming language	285
+programming paradigm	286
+properties for this type	287
+public holiday	288
+published in	289
+publisher	290
+quotes work	291
+record label	292
+rector	293
+registered with	294
+relative	295
+religion	296
+religious order	297
+replaced by	298
+replaces	299
+residence	300
+risk factor	301
+said to be the same as	302
+screenwriter	303
+season starts	304
+seed team	305
+separated from	306
+series spin-off	307
+set in period	308
+sex or gender	309
+sexual orientation	310
+shares border with	311
+sibling	312
+sidekick of	313
+signatory	314
+significant event	315
+significant person	316
+software engine	317
+soundtrack album	318
+source of income	319
+source of material	320
+sponsor	321
+sport	322
+sports season of league or competition	323
+spouse	324
+start point	325
+stated in	326
+statistical leader	327
+student	328
+student of	329
+studied by	330
+studies	331
+subject has role	332
+subsidiary	333
+substitute/deputy/replacement of office/officeholder	334
+successful candidate	335
+superhuman feature or ability	336
+symptom of	337
+symptoms	338
+takes place in fictional universe	339
+talk show guest	340
+taxon rank	341
+terminus	342
+territory claimed by	343
+territory overlaps	344
+theme music	345
+this taxon is source of	346
+time period	347
+tributary	348
+twinned administrative body	349
+update method	350
+use	351
+used by	352
+uses	353
+vehicle normally used	354
+voice actor	355
+voice type	356
+wikidata property	357
+winner	358
+work location	359
+works in collection	360
+worshipped by	361
+writing system	362
